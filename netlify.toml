@@ -1,2 +1,4 @@
 [[plugins]]
 package = "./src/index.js"
+[[plugins]]
+package = "netlify-plugin-amp-server-side-rendering"
